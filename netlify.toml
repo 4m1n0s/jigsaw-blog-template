@@ -2,7 +2,7 @@
 
 [build]
   publish = "build_production"
-  command = "yarn run production"
+  command = "yarn run prod"
 
 [build.environment]
   PHP_VERSION = "8.0"
